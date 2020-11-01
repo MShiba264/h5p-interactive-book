@@ -51,52 +51,52 @@
         },
         {
           "label": "Отображать автоматический прогресс",
-          "description": "Если эта опция задействована,страница без задач будет отображаться выполненной, когда будет просмотрена. Страница с задачами - когда все задачи будут выполнены. A page with tasks when all tasks are done. If disabled there will be a button at the bottom of every page for the user to click when done with the page."
+          "description": "Если эта опция задействована, страница без задач будет отображаться выполненной, когда будет просмотрена. Страница с задачами - когда все задачи будут выполнены. Если эта опция не задействована, на каждой странице будет кнопка, которую необходимо нажать, когда пользователь закончит с данной страницей."
         },
         {
-          "label": "Display summary",
-          "description": "When enabled the user can see a summary and submit the progress/answers"
+          "label": "Отображать итоги",
+          "description": "Если эта опция задействована, пользователь увидит страницу с итогами и сможет отправить прогресс/ответы на проверку"
         }
       ]
     },
     {
-      "label": "Translation for \"Read\"",
-      "default": "Read"
+      "label": "Перевод для \"Read\"",
+      "default": "Читать"
     },
     {
-      "label": "Translation for \"Display 'Table of contents'\"",
-      "default": "Display 'Table of contents'"
+      "label": "Перевод для \"Display 'Table of contents'\"",
+      "default": "Отображать 'Оглавление'"
     },
     {
-      "label": "Translation for \"Hide 'Table of contents'\"",
-      "default": "Hide 'Table of contents'"
+      "label": "Перевод для \"Hide 'Table of contents'\"",
+      "default": "Скрыть 'Оглавление'"
     },
     {
-      "label": "Translation for \"Next page\"",
-      "default": "Next page"
+      "label": "Перевод для \"Next page\"",
+      "default": "Следующая страница"
     },
     {
-      "label": "Translation for \"Previous page\"",
-      "default": "Previous page"
+      "label": "Перевод для \"Previous page\"",
+      "default": "Предыдущая страница"
     },
     {
-      "label": "Translation for \"Page completed!\"",
+      "label": "Перевод для \"Page completed!\"",
       "default": "Page completed!"
     },
     {
-      "label": "Translation for \"@pages of @total completed\" (@pages and @total will be replaced by actual values)",
+      "label": "Перевод для \"@pages of @total completed\" (@pages and @total will be replaced by actual values)",
       "default": "@pages of @total completed"
     },
     {
-      "label": "Translation for \"Incomplete page\"",
+      "label": "Перевод для \"Incomplete page\"",
       "default": "Incomplete page"
     },
     {
-      "label": "Translation for \"Navigate to the top\"",
+      "label": "Перевод для \"Navigate to the top\"",
       "default": "Navigate to the top"
     },
     {
-      "label": "Translation for \"I have finished this page\"",
+      "label": "Перевод для \"I have finished this page\"",
       "default": "I have finished this page"
     },
     {
@@ -118,7 +118,7 @@
       "default": "@count of @total interactions"
     },
     {
-      "label": "Translation for \"Submit report\"",
+      "label": "Перевод для \"Submit report\"",
       "default": "Submit Report"
     },
     {
@@ -130,11 +130,11 @@
       "default": "Summary"
     },
     {
-      "label": "Translation for \"All interactions\"",
+      "label": "Перевод для \"All interactions\"",
       "default": "All interactions"
     },
     {
-      "label": "Translation for \"Unanswered interactions\"",
+      "label": "Перевод для \"Unanswered interactions\"",
       "default": "Unanswered interactions"
     },
     {
@@ -148,11 +148,11 @@
       "default": "@left of @max interactions completed"
     },
     {
-      "label": "Translation for \"No interactions\"",
+      "label": "Перевод для \"No interactions\"",
       "default": "No interactions"
     },
     {
-      "label": "Translation for \"Score\"",
+      "label": "Перевод для \"Score\"",
       "default": "Score"
     },
     {
@@ -160,11 +160,11 @@
       "default": "Summary & submit"
     },
     {
-      "label": "Translation for \"You have not interacted with any pages.\"",
+      "label": "Перевод для \"You have not interacted with any pages.\"",
       "default": "You have not interacted with any pages."
     },
     {
-      "label": "Translation for \"You have to interact with at least one page before you can see the summary.\"",
+      "label": "Перевод для \"You have to interact with at least one page before you can see the summary.\"",
       "default": "You have to interact with at least one page before you can see the summary."
     },
     {
